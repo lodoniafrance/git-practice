@@ -1,1 +1,8 @@
-Hi this file currently in staging branch
+list of movies
+
+Marvels
+Spiderman
+Thor
+Hulk
+Cpt America
+Dr. Strange
